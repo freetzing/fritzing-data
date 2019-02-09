@@ -22,7 +22,7 @@ When the `fritzing-js` library is tested, this repository is cloned in a local d
 
 ## Contributing
 
-**Pull Requests are welcome!** Help contribute to this repository by adding Fritzing data that you find out in the wild. The more data that we can test against, the more complete `fritzing-js` gets.
+**Pull Requests are welcome!** Help contribute to this repository by adding Fritzing data that you find out in the wild. The more data that we can test against, the more complete `fritzing-js` gets. If you can find any **FZBZ**, or **FZPZ** files to test against, that would be much appreciated.
 
 ## License
 
